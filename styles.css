@@ -1,0 +1,28 @@
+*{
+  padding:0;
+  margin:0;
+}
+
+body {
+  background-color:#94aace;
+  font-family: 'EB Garamond', serif;
+}
+
+h1{
+  text-align:center;
+}
+
+h4 {
+  text-align:center;
+}
+
+img.logo {
+    display: block;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+#searchBar { 
+  display: table;
+  margin: 0 auto;
+}
